@@ -68,7 +68,7 @@ En fin, es también básico aprender a crear y editar ficheros a partir del term
 * `Clear` - limpia la pantalla 
 
 ###Tutoriales:
-[Learn the Commando Line](https://www.codecademy.com/learn/learn-the-command-line) by Codecademy
-[The Command Line Crash Course](http://cli.learncodethehardway.org/book/) by Zed Shaw
+[Learn the Commando Line](https://www.codecademy.com/learn/learn-the-command-line) by Codecademy <br/>
+[The Command Line Crash Course](http://cli.learncodethehardway.org/book/) by Zed Shaw <br/>
 [Command Line (DH Notes)](https://github.com/xpmethod/dhnotes/blob/master/command-line/000-cli.md) by Dennis Tenen
 
