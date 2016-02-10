@@ -1,2 +1,2 @@
-List of useful Command Line
-List Git Commands
+[Lista Comandos Terminal](https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Terminal)
+[Lista Comandos Git] (https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git)
