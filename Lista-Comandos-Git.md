@@ -20,3 +20,6 @@
  
 ###La Brújula: 
 `git status`: señala lo que se ha modificado en la carpeta de trabajo
+
+###Tutoriales & Recursos:
+* [Pro Git](http://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
