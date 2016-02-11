@@ -1,4 +1,4 @@
-##Lista de comandos útiles para el terminal
+##Lista de comandos útiles para Git
 
 ###Para clonar el repositorio de GitHub (sólo una vez):
 * `git clone https://github.com/susannalles/MinimalEditions.git`
