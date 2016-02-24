@@ -1,5 +1,5 @@
 # Markdown 
-El Markdown nos permite crear un texto con negrita, headers, etc. sin tener que usar un programa como Word. Es muy simple usar Markdown ya que todo el sintaxis fue diseñado para seer leído tanto como interpretado por una computadora. Aquí una referencia básica de Markup que espero que les ayude. 
+El Markdown nos permite crear un texto con negrita, headers, etc. sin tener que usar un programa como Word. Es muy simple usar Markdown ya que todo el sintaxis fue diseñado para seer leído por alguien en plaintext tanto como interpretado por una computadora. Aquí una referencia básica de Markup que espero que les ayude. 
 
 ## Párrafos
 Usa dos saltos de linea. 
