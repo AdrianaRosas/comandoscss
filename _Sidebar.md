@@ -2,5 +2,5 @@
 [Lista Comandos Git] (https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git)<br/>
 Notas XML-TEI <br/>
 [Básicos HTML](https://github.com/susannalles/DHSeminar/wiki/Básicos-HTML)<br/>
-[Básicos CSS](https://github.com/susannalles/DHSeminar/wiki/Básicos-CSS)
+[Básicos CSS](https://github.com/susannalles/DHSeminar/wiki/Básicos-CSS)<br/>
 [Guía de Estudio)()
