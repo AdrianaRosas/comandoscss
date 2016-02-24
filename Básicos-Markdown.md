@@ -1,0 +1,53 @@
+# Markdown 
+El Markdown nos permite crear un texto con negrita, headers, etc. sin tener que usar un programa como Word. Es muy simple usar Markdown ya que todo el sintaxis fue diseñado para seer leído tanto como interpretado por una computadora. Aquí una referencia básica de Markup que espero que les ayude. 
+
+## Párrafos
+Usa dos saltos de linea. 
+
+    Esto es un párrafo.
+    
+    Esto es otro párrafo.
+
+Esto es un párrafo.
+
+Esto es otro párrafo. 
+
+## Texto en cursiva o negrita
+Usa uno o dos asteriscos para texto en cursiva o negrita, respectivamente. También se puede usar el guión bajo (_).
+
+    *Esto en cursiva,* **y esto en negrita,** ***¡y los dos juntos!***
+    
+    _Esto en cursiva,_ __y esto en negrita,__ ___¡y los dos juntos!___
+
+*Esto en cursiva,* **y esto en negrita,** ***¡y los dos juntos!***
+
+_Esto en cursiva,_ __y esto en negrita,__ ___¡y los dos juntos!___
+
+## Cabeceras
+Usa la tecla de número (#) para definir cabeceras. Se pueden usar una a seis teclas, dependiendo de la estructura del texto (más teclas → menos importante). Corresponden con los elementos `<h1>` a `<h6>` en HTML. 
+
+    # 1. ¿Qué es Markdown?
+    ## 1.1 Markdown es fácil de leer.
+    ### 1.1.1 Markdown no requiere un programa como Word. 
+
+# 1. ¿Qué es Markdown?
+## 1.1 Markdown es fácil de leer.
+### 1.1.1 Markdown no requiere un programa como Word. 
+
+## Código
+Muy útil para nuestro proyecto. Para usar código en un párrafo, usa el tilde (`). Para crear un code block, escribe cuatro espacios ( ) antes de la linea 
+
+    Aquí tenemos un `code` en un párrafo. 
+        
+        **Ejemplo de un code block en Markdown**
+
+Aquí tenemos un `code` en un párrafo. 
+        
+    **Ejemplo de un code block en Markdown**
+
+## Enlaces
+Para crear un enlace, encierra el texto del enlace en paréntesis rectangulares ([ ]) y el URL en paréntesis (( )). 
+
+    [Un enlace para Wikipedia.](http://es.wikipedia.org/)
+
+[Un enlace para Wikipedia.](http://es.wikipedia.org/)
