@@ -3,4 +3,4 @@
 Notas XML-TEI <br/>
 [Básicos HTML](https://github.com/susannalles/DHSeminar/wiki/Básicos-HTML)<br/>
 [Básicos CSS](https://github.com/susannalles/DHSeminar/wiki/Básicos-CSS)<br/>
-[Guía de Estudio)(https://github.com/susannalles/MinimalEditions/wiki/Gu%C3%ADa-de-Estudio)
+[Guía de Estudio](https://github.com/susannalles/MinimalEditions/wiki/Gu%C3%ADa-de-Estudio)
