@@ -8,7 +8,7 @@
 * `git add nombre_archivo.txt`: añade el documento (o carpeta) en el area de espera ("stage")
 * `git commit -m "mi primer mensaje de cambios"`: describe los cambios realizados
 * `git remote add origin https://github.com/susannalles/MinimalEditions.git`: apunta a la dirección donde deseáis subir el nuevo material
-* `git push -u origin master"`: subís los cambios al repositorio remote en GitHub por primera vez
+* `git push origin [branch]`: subís los cambios al repositorio remote en GitHub por primera vez. Asegurar de escribir el nombre del branch que quieres subir sus cambios y **nunca subes al master** sin que todos revisamos sus cambios. 
 
 ###Push & Pull 
 * `git add *`: añade el documento (o carpeta) en el area de espera ("stage")
