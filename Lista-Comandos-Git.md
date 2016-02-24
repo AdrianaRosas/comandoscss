@@ -8,12 +8,13 @@
 * `git add nombre_archivo.txt`: añade el documento (o carpeta) en el area de espera ("stage")
 * `git commit -m "mi primer mensaje de cambios"`: describe los cambios realizados
 * `git remote add origin https://github.com/susannalles/MinimalEditions.git`: apunta a la dirección donde deseáis subir el nuevo material
-* `git push origin [branch]`: subís los cambios al repositorio remote en GitHub por primera vez. Asegurar de escribir el nombre del branch que quieres subir sus cambios y **nunca subes al master** sin que todos revisamos sus cambios. 
+* `git push -u origin master"`: subís los cambios al repositorio remote en GitHub por primera vez
 
 ###Push & Pull 
 * `git add *`: añade el documento (o carpeta) en el area de espera ("stage")
 * `git commit -m "mensaje con los detalles del cambio"`: describe los cambios realizados
 * `git push origin master`: subís los cambios a GitHub
+*`git push origin [branch]`: subís los cambios al repositorio remote en GitHub. Asegurar de escribir el nombre del branch que quieres subir sus cambios y **nunca subes al master** sin que todos revisamos sus cambios.
 
 ###Sincronizar nuestra copia con el original:
 * `git pull`: baja los cambios del repositorio remoteo a nuestra copia en local 
