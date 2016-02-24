@@ -22,7 +22,11 @@
 ###La Brújula: 
 `git status`: señala lo que se ha modificado en la carpeta de trabajo
 
-###Brunches
-(Armando)
+###Branches
+* `git branch`: Para ver en que branch estas trabajando.
+* `git branch [name]`: Para crear un branch nuevo. Asegurar de usar `git checkout` para camibar al branch.
+* `git checkout [branch]`: Para cambiar de un branch a otro. 
+* `git branch -d [name]`: Para quitar un branch. Es posible que git te da un error. Git no te permite quitar un branch que tiene commits no escritos al origin con esta orden. Si estas *completamente seguro* de que quieres quitar el branch, puedes usar la orden `git branch -D [name]`.
+
 ###Tutoriales & Recursos:
 * [Pro Git](http://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
