@@ -1,0 +1,3 @@
+Hemos marcado...
+
+-Dios: no es un persName sino <name type=religious>
