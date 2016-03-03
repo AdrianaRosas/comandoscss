@@ -1,7 +1,16 @@
-Hemos marcado...
+##Reglas para el marcado XML-TEI
+- `<persName>` Lo usaremos también en casos como "mi amo", "mi mujer" (no es necesario marcar plurales, como "las mujeres") 
 
-- Dios: no es un persName sino `name type=religious corresp="#Dios"`
-- Sí, estamos marcando "mi amo"
-- Estamos marcando caracteres como "mi mujer" pero no como "las mujeres"
-- Estamos marcando caracteres que no son importantes como los vecinos como `name type=grupo xml:id="vecinos"`
+- `<name>` lo usaremos en casos como: 
+       1. `<name type=religious corresp="#Dios">`
+       2. `<name type=grupo xml:id="vecinos">`
+
+###Diálogos, pensamientos, citas
+- Cuando se trata de un diálogo utilizaremos `<sp who="#personaje">`, y en su interior `<p>`
+- Cuando es una expresión o pensamiento o palabras al interno de un párrafo utilizaremos `<said who="#personaje">
+- Cuando es una cita de un autor utilizaremos '<quote>' 
+
+###Nombres de lugar
+- `placeName`
+
 
