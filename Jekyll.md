@@ -58,8 +58,10 @@ Vamos a ver aparecer este mensaje:
        Server address: http://127.0.0.1:4000/
        Server running... press ctrl-c to stop.`
 
-Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas. 
+Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas: `title`, èmail`, `description`,  `baseurl`(la dirección que será pública), `url`(tu página web), `twitter_username`, `github_username`, etc. Y lo salvamos. 
+Cancelamos el servidos: Ctrl C`, y activamos el servidor de nuevo: `jekyll serve`. 
 
 
 ###Recursos útiles: 
 - [A. Visconti, Building a static website with Jekyll and GitHub Pages, The Programming Historian, March 2016](https://via.hypothes.is/programminghistorian.github.io/ph-submissions/lessons/building-static-sites-with-jekyll-github-pages)
+- Links relativos y links absolutos 
