@@ -14,8 +14,16 @@ El segundo paso es instalar [Ruby Version Managment](https://rvm.io/). Para comp
 
    `$ ruby --version` <br/>
    `$ ruby 2.2.1p85 (2015-02-26 revision 49769) [x86_64-darwin14]`
+
+Instalar la última version de Ruby: 
+
+    `$ rvm install 2.3.0`
+
+
+
+
     `
 
 
 ###Recursos útiles: 
-- [A. Visconti]
+- [A. Visconti, Building a static website with Jekyll and GitHub Pages, The Programming Historian, March 2016](https://via.hypothes.is/programminghistorian.github.io/ph-submissions/lessons/building-static-sites-with-jekyll-github-pages)
