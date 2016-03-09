@@ -6,7 +6,7 @@
 [Jekyll](https://github.com/susannalles/MinimalEditions/wiki/Jekyll)<br/>
 [CUNIX](https://github.com/susannalles/MinimalEditions/wiki/CUNIX)
 
-Otros:
+Otros:<br/>
 [Notas XML-TEI](http://susannalles.github.io/Web-TEI/1.1.html) <br/>
 [Las reglas para el marcado](https://github.com/susannalles/MinimalEditions/wiki/Las-reglas-para-el-marcado)
 [Midterm 1: Guía de Estudio](https://github.com/susannalles/MinimalEditions/wiki/Gu%C3%ADa-de-Estudio)<br/>
