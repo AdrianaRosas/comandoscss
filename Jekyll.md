@@ -47,16 +47,16 @@ Ahora debemos montar el sitio y
 
 Vamos a ver aparecer este mensaje: 
     
-`Configuration file: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_config.yml
-            Source: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas
+      `Configuration file: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_config.yml
+       Source: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas
        Destination: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
+       Incremental build: disabled. Enable with --incremental
+       Generating... 
                     done in 0.344 seconds.
- Auto-regeneration: enabled for '/Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas'
-Configuration file: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_config.yml
-    Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.`
+       Auto-regeneration: enabled for '/Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas'
+       Configuration file: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_config.yml
+       Server address: http://127.0.0.1:4000/
+       Server running... press ctrl-c to stop.`
 
 Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas. 
 
