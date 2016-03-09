@@ -58,8 +58,9 @@ Vamos a ver aparecer este mensaje:
        Server address: http://127.0.0.1:4000/
        Server running... press ctrl-c to stop.`
 
-Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas: `title`, èmail`, `description`,  `baseurl`(la dirección que será pública), `url`(tu página web), `twitter_username`, `github_username`, etc. Y lo salvamos. 
-Cancelamos el servidos: `Ctrl C`, y activamos el servidor de nuevo: `jekyll serve`. 
+Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas: `title`, `email`, `description`,  `baseurl` (la dirección que será pública), `url` (tu página web), `twitter_username`, `github_username`, etc. Y lo salvamos. Cancelamos el servidos: `Ctrl C`, y activamos el servidor de nuevo: `jekyll serve`. 
+
+A partir de ahora el sitio web se actualizará en la carpeta _site, que será la carpeta donde se albergará todo nuestra página. 
 
 
 ###Recursos útiles: 
