@@ -15,14 +15,9 @@ El segundo paso es instalar [Ruby Version Managment](https://rvm.io/). Para comp
    `$ ruby --version` <br/>
    `$ ruby 2.2.1p85 (2015-02-26 revision 49769) [x86_64-darwin14]`
 
-Instalar la última version de Ruby: 
+Instalar la última version de Ruby, que tomará algún tiempo: 
 
     `$ rvm install 2.3.0`
-
-
-
-
-    `
 
 
 ###Recursos útiles: 
