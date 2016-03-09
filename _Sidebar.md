@@ -6,4 +6,4 @@
 [Básicos Markdown](https://github.com/susannalles/MinimalEditions/wiki/Básicos-Markdown)<br/>
 [Las reglas para el marcado](https://github.com/susannalles/MinimalEditions/wiki/Las-reglas-para-el-marcado)
 [Midterm 1: Guía de Estudio](https://github.com/susannalles/MinimalEditions/wiki/Gu%C3%ADa-de-Estudio)<br/>
-[Jekyll]()
+[Jekyll](https://github.com/susannalles/MinimalEditions/wiki/Jekyll)
