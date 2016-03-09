@@ -19,6 +19,20 @@ Instalar la última version de Ruby, que tomará algún tiempo:
 
     `$ rvm install 2.3.0`
 
+A continuación se crea un conjunto de "gems", un fragmento de programa escrito en Ruby que se llamará "MinimalEditions" (aunque lo podéis llamar de otra manera):
+
+    `$ rvm gemset create MinimalEditions
+    `$ rvm gemset use MinimalEditions`
+
+A partir de ahora cuando trabajemos con Jekyll deberemos recordar que trabajamos con este grupo de gemas: 
+
+    `$ rvm gemset use MinimalEdition`
+
+Ahora pasamos a instalar Jekyll, podemos seguir las indicaciones del [sito web](https://jekyllrb.com/), que se resumen con estos comandos:  
+
+     `$ gem install jekyll`
+
+
 
 ###Recursos útiles: 
 - [A. Visconti, Building a static website with Jekyll and GitHub Pages, The Programming Historian, March 2016](https://via.hypothes.is/programminghistorian.github.io/ph-submissions/lessons/building-static-sites-with-jekyll-github-pages)
