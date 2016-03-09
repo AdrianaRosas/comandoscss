@@ -40,5 +40,26 @@ Ahora ya tenemos Jekyll. ¡Vamos a crear un website! Nos situamos en una carpeta
 
      `$ jekyll new nombre_sitio`
 
+Ahora debemos montar el sitio y 
+
+    `$jekyll build`
+    `$ jekyll serve`
+
+Vamos a ver aparecer este mensaje: 
+    
+`Configuration file: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_config.yml
+            Source: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas
+       Destination: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.344 seconds.
+ Auto-regeneration: enabled for '/Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas'
+Configuration file: /Users/susannalles/Sites/github.io/susannalles.github.io/9Marzo/Ardillas/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.`
+
+Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas. 
+
+
 ###Recursos útiles: 
 - [A. Visconti, Building a static website with Jekyll and GitHub Pages, The Programming Historian, March 2016](https://via.hypothes.is/programminghistorian.github.io/ph-submissions/lessons/building-static-sites-with-jekyll-github-pages)
