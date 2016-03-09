@@ -12,7 +12,7 @@ Primero debemos installar el [Home Brew](http://brew.sh/):
 
 El segundo paso es instalar [Ruby Version Managment](https://rvm.io/). Para comprobar qué version tenemos de Ruby:
 
-   `$ ruby --version`
+   `$ ruby --version` <br/>
    `$ ruby 2.2.1p85 (2015-02-26 revision 49769) [x86_64-darwin14]`
     `
 
