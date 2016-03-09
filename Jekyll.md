@@ -32,7 +32,13 @@ Ahora pasamos a instalar Jekyll, podemos seguir las indicaciones del [sito web](
 
      `$ gem install jekyll`
 
+Instalaremos también Jekyll scholar para poder gestionar la bibliografía: 
 
+     `$ gem install jekyll-scholar`
+
+Ahora ya tenemos Jekyll. ¡Vamos a crear un website! Nos situamos en una carpeta a elección, creamos una carpeta para un proyecto nuevo 'mkdir nombre`, y entramos dentro `cd nombre`. Y crearemos un sitioweb nuevo: 
+
+     `$ jekyll new nombre_sitio`
 
 ###Recursos útiles: 
 - [A. Visconti, Building a static website with Jekyll and GitHub Pages, The Programming Historian, March 2016](https://via.hypothes.is/programminghistorian.github.io/ph-submissions/lessons/building-static-sites-with-jekyll-github-pages)
