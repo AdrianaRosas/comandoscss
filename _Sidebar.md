@@ -4,5 +4,5 @@
 [Básicos HTML](https://github.com/susannalles/DHSeminar/wiki/Básicos-HTML)<br/>
 [Básicos CSS](https://github.com/susannalles/DHSeminar/wiki/Básicos-CSS)<br/>
 [Básicos Markdown](https://github.com/susannalles/MinimalEditions/wiki/Básicos-Markdown)<br/>
-[Guía de Estudio](https://github.com/susannalles/MinimalEditions/wiki/Gu%C3%ADa-de-Estudio)<br/>
 [Las reglas para el marcado](https://github.com/susannalles/MinimalEditions/wiki/Las-reglas-para-el-marcado)
+[Midterm 1: Guía de Estudio](https://github.com/susannalles/MinimalEditions/wiki/Gu%C3%ADa-de-Estudio)<br/>
