@@ -59,7 +59,7 @@ Vamos a ver aparecer este mensaje:
        Server running... press ctrl-c to stop.`
 
 Lo primero que debemos modificar será el `_config.yml` para cambiar el título y las informaciones básicas: `title`, èmail`, `description`,  `baseurl`(la dirección que será pública), `url`(tu página web), `twitter_username`, `github_username`, etc. Y lo salvamos. 
-Cancelamos el servidos: Ctrl C`, y activamos el servidor de nuevo: `jekyll serve`. 
+Cancelamos el servidos: `Ctrl C`, y activamos el servidor de nuevo: `jekyll serve`. 
 
 
 ###Recursos útiles: 
