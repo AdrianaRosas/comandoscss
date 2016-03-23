@@ -12,7 +12,7 @@ XSLT es un lenguaje de programación que se espresa en XML y puede tener diferen
 
 ###Templates / Reglas 
 `<xsl:stylesheet> </xsl:stylesheet>` <br/>
-`<xsl:template match="nombre_del_elemento"> </template>'<br/>
+`<xsl:template match="nombre_del_elemento"> </template>' <br/>
 `<xsl:output method="formato_salida"/>`<br/>
 `<xsl:apply-templates/>`<br/>
 
