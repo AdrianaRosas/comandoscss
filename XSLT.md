@@ -4,23 +4,36 @@ XSLT es un lenguaje de programación que se espresa en XML y puede tener diferen
 1. Transformar de un formato a otro, por ejemplo, de un fichero XML-TEI a uno en (X)HTML, o incluso a Markdown. 
 2. Interrogar los documentos XML y extraer informaciones. Por ejemplo, si queremos saber cuántos personajes hay, o las veces que habla nuestro personaje. Además, podemos extraer los nombres de los personajes, para crear nuestros índices. 
 
-#Conceptos básicos
-- nodo contexto
+###Conceptos básicos
+- Formato de entrada vs Formato de salida
+- Parsear el documento
+- Nodo contexto - Estructura arbórea
+- Regla / Template
 
+###Templates / Reglas 
+`<xsl:stylesheet> </xsl:stylesheet>`
+`<xsl:template match="nombre_del_elemento"> </template>'
+`<xsl:output method="formato_salida"/>`
+`<xsl:apply-templates/>`
+
+###XPath: el lenguaje complementario
 XPath es el lenguaje, también expresado en XML, que nos permite seleccionar y viajar a través del documento XML que estamos procesando. Hay otros lenguajes que utilizan XPath, como por ejemplo XQuery. 
 En el programa oXygen hay un recuadro que nos permite interrogar nuestro texto con XPath. Ejecutad los siguientes comandos: 
 - `/TEI`
 - `/TEI/teiHeader/fileDesc/titleStmt/title`
 - `//title`
-- 
+- `/TEI/text/body/div[@xml:id='prologo']`
+- `/TEI/text/body/div/head[@type='titulo']`
+- `//persName`
+- `//persName[@xml:id]`
 
-# XPath ejes (axes)
-self::
-child::, descendant::
-parent::, ancestor::
-following::, following-sibling::
-preceding::, preceding-sibling::
-attribute::
+### XPath ejes (axes)
+self::<br/>
+child::, descendant::<br/>
+parent::, ancestor::<br/>
+following::, following-sibling::<br/>
+preceding::, preceding-sibling::<br/>
+attribute::<br/>
 
 
 
