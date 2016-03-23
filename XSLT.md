@@ -11,10 +11,10 @@ XSLT es un lenguaje de programación que se espresa en XML y puede tener diferen
 - Regla / Template
 
 ###Templates / Reglas 
-`<xsl:stylesheet> </xsl:stylesheet>` <br/>
-`<xsl:template match="nombre_del_elemento"> </template>' <br/>
-`<xsl:output method="formato_salida"/>` <br/>
-`<xsl:apply-templates/>` <br/>
+    `<xsl:stylesheet> </xsl:stylesheet>` 
+    `<xsl:template match="nombre_del_elemento"> </template>'
+    `<xsl:output method="formato_salida"/>`
+    `<xsl:apply-templates/>`
 
 ###XPath: el lenguaje complementario
 XPath es el lenguaje, también expresado en XML, que nos permite seleccionar y viajar a través del documento XML que estamos procesando. Hay otros lenguajes que utilizan XPath, como por ejemplo XQuery. 
