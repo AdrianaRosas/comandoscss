@@ -1,7 +1,7 @@
 ##eXtensible Stylesheet Language Transformation
 
 XSLT es un lenguaje de programación que se espresa en XML y puede tener diferentes funciones: 
-1. Transformar de un formato a otro, por ejemplo, de un fichero XML-TEI a uno en (X)HTML, o incluso a Markdown. 
+1. Transformar de un formato a otro, por ejemplo, de un fichero XML-TEI a uno en (X)HTML, o incluso a Markdown. <br/>
 2. Interrogar los documentos XML y extraer informaciones. Por ejemplo, si queremos saber cuántos personajes hay, o las veces que habla nuestro personaje. Además, podemos extraer los nombres de los personajes, para crear nuestros índices. 
 
 ###Conceptos básicos
@@ -11,10 +11,10 @@ XSLT es un lenguaje de programación que se espresa en XML y puede tener diferen
 - Regla / Template
 
 ###Templates / Reglas 
-`<xsl:stylesheet> </xsl:stylesheet>`
-`<xsl:template match="nombre_del_elemento"> </template>'
-`<xsl:output method="formato_salida"/>`
-`<xsl:apply-templates/>`
+`<xsl:stylesheet> </xsl:stylesheet>` <br/>
+`<xsl:template match="nombre_del_elemento"> </template>'<br/>
+`<xsl:output method="formato_salida"/>`<br/>
+`<xsl:apply-templates/>`<br/>
 
 ###XPath: el lenguaje complementario
 XPath es el lenguaje, también expresado en XML, que nos permite seleccionar y viajar a través del documento XML que estamos procesando. Hay otros lenguajes que utilizan XPath, como por ejemplo XQuery. 
