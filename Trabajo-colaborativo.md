@@ -48,12 +48,12 @@ En todo caso, debe haber algunas secciones que son imprescindibles como por ejem
 
 - Project Manager (Mantener la coherencia de toda la actividad del equipo, GitHub issues, escoger la herramienta adecuada para mantener al día las tareas y el workflow (task, landmark) (ej. un tabla o spreadsheet), resolver posibles problemas del equipo. [Fiona]
 
-- Desarrollador / Developer:
-         Front-End 
-             (HTML, CSS) [Armando]
-	     Jekyll (Yaml, Liquid) [Armando]
-         Back-End (XML,TEI, XSLT) 
-             XML/ TEI (asegurar documentos bien formados y válidos) [Falls]
+- Desarrollador / Developer:<br/>
+         - Front-End 
+             (HTML, CSS) [Armando]<br/>
+	     Jekyll (Yaml, Liquid) [Armando]<br/>
+         - Back-End (XML,TEI, XSLT) 
+             XML/ TEI (asegurar documentos bien formados y válidos) [Falls]<br/>
              XSLT, XPath [Falls, Armando]
 
 - Editor / Copy editor: Materiales relacionados (paratextos) (trabajo realmente colaborativo)
