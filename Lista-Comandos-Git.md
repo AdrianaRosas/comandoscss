@@ -29,6 +29,8 @@
 * `git branch [name]`: Para crear un branch nuevo. Asegurar de usar `git checkout` para camibar al branch.
 * `git checkout [branch]`: Para cambiar de un branch a otro. Así por ejemplo, si estamos en "master" y queremos cambiarnos a un branch llamado "classwork", haremos 'git checkout classwork'.  
 * `git branch -d [name]`: Para quitar un branch. Es posible que git te da un error. Git no te permite quitar un branch que tiene commits no escritos al origin con esta orden. Si estas *completamente seguro* de que quieres quitar el branch, puedes usar la orden `git branch -D [name]`.
+* `git checkout -b nombre_branch`: para bajar el contenido de un branch
+* `git pull origin nombre_branch`: para actualizar el contenido de un branch (y empezar a trabajar en ese branch).
 
 ###Tutoriales & Recursos:
 * [Pro Git](http://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
