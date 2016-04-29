@@ -10,6 +10,7 @@
 * `git remote add origin https://github.com/susannalles/MinimalEditions.git`: apunta a la dirección donde deseáis subir el nuevo material
 * `git push -u origin master"`: subís los cambios al repositorio remote en GitHub por primera vez
 * 'git checkout -b nombre_branch': para descargar el contenido de un branch
+* `git checkout -- file.html`: para ignorar los cambios hechos en local (cuando queremos hacer un push)
 
 
 ###Push & Pull 
