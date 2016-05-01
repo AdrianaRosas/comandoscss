@@ -9,9 +9,6 @@
 * `git commit -m "mi primer mensaje de cambios"`: describe los cambios realizados
 * `git remote add origin https://github.com/susannalles/MinimalEditions.git`: apunta a la dirección donde deseáis subir el nuevo material
 * `git push -u origin master"`: subís los cambios al repositorio remote en GitHub por primera vez
-* 'git checkout -b nombre_branch': para descargar el contenido de un branch
-* `git checkout -- file.html`: para ignorar los cambios hechos en local (cuando queremos hacer un push)
-
 
 ###Push & Pull 
 * `git add *`: añade el documento (o carpeta) en el area de espera ("stage")
@@ -32,6 +29,8 @@
 * `git branch -d [name]`: Para quitar un branch. Es posible que git te da un error. Git no te permite quitar un branch que tiene commits no escritos al origin con esta orden. Si estas *completamente seguro* de que quieres quitar el branch, puedes usar la orden `git branch -D [name]`.
 * `git checkout -b nombre_branch`: para bajar el contenido de un branch
 * `git pull origin nombre_branch`: para actualizar el contenido de un branch (y empezar a trabajar en ese branch).
+* 'git checkout -b nombre_branch': para descargar el contenido de un branch
+* `git checkout -- file.html`: para ignorar los cambios hechos en local (cuando queremos hacer un push)
 
 ###Tutoriales & Recursos:
 * [Pro Git](http://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
