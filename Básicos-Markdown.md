@@ -76,3 +76,6 @@ Ahora con números:
 2. Otro elemento para nuestra lista
 4. Los números no tiene que ser escritos en orden
 3. Pero se visualizarán en el orden apropiado. 
+
+
+[Helpful cheat sheet for MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
